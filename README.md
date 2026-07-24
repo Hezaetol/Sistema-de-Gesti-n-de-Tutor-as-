@@ -1,2 +1,2 @@
-# Sistema-de-Gesti-n-de-Tutor-as-
-Diseño y prototipo de una herramienta web para la organización de tutorías y el seguimiento académico de los estudiantes de la modalidad en línea de la Universidad Agraria del Ecuador. 
+# Sistema de Gestion de Tutorias
+Prototipo y documentación conceptual de un sistema web integral orientado a la gestión de tutorías y el acompañamiento académico estudiantil en la Universidad Agraria del Ecuador. Incluye el modelado de requerimientos, diagramación UML, diseño de prototipos visuales y control de versionamiento para tres roles clave: Estudiante, Docente Tutor y Administrador.
