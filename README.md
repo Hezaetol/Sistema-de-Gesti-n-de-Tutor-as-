@@ -24,4 +24,4 @@ Diseñar una propuesta de sistema web para la gestión de tutorías y seguimient
 * **StarUML y Draw.io:** Diagramación arquitectónica, modelado de procesos lógicos y diagramas de casos de uso (UML).
 
 ##  Estado Actual del Proyecto
-El proyecto se encuentra en su etapa final, se completo la elaboracion del documento y actualmente se encuentra en prueba el prototipo de Sistema de Gestion de Tutorias.
+El proyecto se encuentra en su fase final. Actualmente, ya se ha completado la elaboración de la documentación y se están realizando las pruebas del prototipo del Sistema de Gestión de Tutorías.
